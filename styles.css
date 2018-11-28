@@ -46,9 +46,6 @@ p{
     font-weight: 500;
 }
 
-#navbar1 {
-    background-color: powderblue;
-}
 
 .slideshow-container{
     position: relative;
@@ -68,7 +65,7 @@ p{
 .about{
     padding: 80px 0 80px;
     text-align: center;
-    background-color: 
+    color: #0c314d;
 }
 
 .about span{
@@ -137,7 +134,7 @@ p{
 .contact {
     margin-top: 20px;
 }
-#contact {background-color: #17629c;
+#contact {background-color: #0c314d;
 }
 #contactus {color:white;
 }
@@ -202,6 +199,36 @@ p{
     transform: translate(-50%, -50%);
 }
 
+#gardlogo {
+    position: absolute;
+    top: 50%;
+    left: 48.5%;
+    transform: translate(-50%, -50%);
+}
+
+#applelogo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#deeplogo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#seichelogo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
 .navbar-brand {
     position: absolute;
     top: 47%;
@@ -257,7 +284,15 @@ p{
 /*services*/
 
 #work {background-color: #17629c;}
-#services {color: white;}
+
+#services {
+    background-color: #0c314d;
+    color: white;
+}
+
+#partners {
+    color: #0c314d;
+}
 
 .service-box{
             position: relative;
@@ -351,3 +386,35 @@ p{
         }
 
 /*Codepen*/
+
+#meet {
+    background-color: #17629c;
+    color: white;
+}
+
+#solution {
+    background-color: #0c314d;
+    color: white;
+}
+
+#meetbutton {
+    background-color: #0c314d;
+    color: white;
+}
+
+#messagebutton {
+    background-color: #17629c;
+    color: white;
+}
+
+#problem {
+    color: #0c314d;
+}
+#basic-addon1 {
+    background-color: #17629c;
+    color: white;
+}
+
+#reach {
+    color: white;
+}
