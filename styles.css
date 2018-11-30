@@ -132,7 +132,7 @@ p{
 /*CONTACT*/
 
 .contact {
-    margin-top: 20px;
+    margin-top: 0px;
 }
 #contact {background-color: #0c314d;
 }
@@ -148,7 +148,7 @@ p{
 
 .footer {
     background-color: #0c314d;
-    margin-top: 20px;
+    margin-top: 0px;
 }
 
 .footer .btn{
@@ -245,16 +245,12 @@ p{
     color: white;
     }
 
-#aboutus1 {
-    
-}
-
 .parallax { 
     /* The image used */
     background-image: url("https://media.giphy.com/media/7GHRDluBmx9O8/giphy.gif");
 
     /* Set a specific height */
-    height: 908px; 
+    height: 1017px; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -413,8 +409,27 @@ p{
 #basic-addon1 {
     background-color: #17629c;
     color: white;
+    
 }
 
 #reach {
+    color: white;
+}
+
+.fa-user {
+    width: 20px;
+}
+
+#footsub {
+    background-color: #17629c;
+    color: white;
+}
+
+#basic-addon2 {
+    background-color: #0c314d;
+    color: white;
+}
+
+#community {
     color: white;
 }
